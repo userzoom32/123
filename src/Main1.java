@@ -5,5 +5,6 @@ public class Main1 {
         System.out.println("!!!!!!!");
         System.out.printf("%d %.2f %c %s %b", 45, 4.87654, 'h', "Java", true);
         System.out.println("Age: " + 45 + "!");
+        System.out.println();
     }
 }
